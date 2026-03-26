@@ -13,3 +13,8 @@ Repository ini adalah pusat dokumentasi dan proyek dalam perjalanan 12 bulan say
 - [ ] Phase 4: Data Governance & PII Handling
 - [ ] Phase 9: Payroll Anomaly Detection (Capstone)
 
+
+### 📂 Completed Projects
+- [Analyzing Students' Mental Health (DataCamp)](./research/phase-0-sql/student_mental_health.sql)
+  - *Skills:* Aggregate Functions, Grouping, Filtering.
+  - *Insight:* Exploring how length of stay impacts mental health scores.
